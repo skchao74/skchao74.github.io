@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shih-Kang Chao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shih-Kang Chao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://skchao74.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "skchao74/skchao74.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shih-Kang Chao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Assistant Professor"
+  location         : Columbia, MO
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=NdJrdAsAAAAJ&view_op=list_works&gmla=AJsN-F4i1rQtlm5lp9aNGKed-5CdEMtwzAluOoT13tu0DUwiD0NnaNOujbzAnLMpmHmqknK7T4oW6_vmy7A5M_CaJp2r03-rkzW3TTXWe0ytmJZ4YHbaWO0ZH0I3iQ5Kx1m4beoyBw-BY6XdSG5_4dQk9HuAARhQxtICdWdrCvP33d7NjKs6pP6WCTL-BTLlGDWx1snkTndD&sciund=14986606000044877773"
+  email            : "chaosh@missouri.edu"
+  researchgate     : "https://www.researchgate.net/profile/Shih-Kang-Chao"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,27 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "skchao74"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "shih-kang-chao"
+  orcid            : "https://orcid.org/0000-0002-2303-8605"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #3192064/nick
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  publons          : "1630208/shih-kang-chao/"
+  mathstack        : "454652/nick"
 
 
 # Reading Files

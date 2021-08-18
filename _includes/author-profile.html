@@ -117,7 +117,13 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+		{% if author.publons %}
+        <li><a href="https://publons.com/researcher/{{ author.publons }}"><i class="fas fa-parking" aria-hidden="true"></i> Publons</a></li>
+		{% endif %}
+		{% if author.mathstack %}
+        <li><a href="https://math.stackexchange.com/users/{{ author.mathstack }}"><i class="fab fa-stack-exchange" aria-hidden="true"></i> Math Stackexchange</a></li>
+		{% endif %}
     </ul>
   </div>
 </div>

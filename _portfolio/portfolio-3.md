@@ -1,0 +1,22 @@
+---
+title: "Nonparametric quantile regression in social science"
+excerpt: "I develop quantile regression methods for economic and financial datasets that allow nonparametric modeling and/or high dimensionality $p>n$. <br/><img src='/images/research/Concor.png' style='width: 40%; height: auto'>"
+collection: portfolio
+---
+
+Quantile regression is useful for exploring a specific conditional quantile or even the entire conditional distribution of a response variable. Lower quantiles usually correspond to risk, such as the <a href="https://en.wikipedia.org/wiki/Value_at_risk" target = "_black">value at risk</a> that financial institutions are required to report at a regular basis. Nonparametric modeling enhances the quantile regression by alleviating the trouble of specifying a regression function, at the cost of a more subtle model tuning. 
+
+My goal is to develop nonparametric quantile regression and statistical inference tools to study data from social science. For example, in Chao et al. (2021), I estimated lower tail quantile factors from the daily stock returns 230 financial institutions around the globe. Using the factor as a proxy of systemic risk, quantifying which insititution has a higher systemic risk association is possible by checking its score on the factor, and this score (the color in the left panel) is nicely correlated with their laverage and market value. In Chao et al. (2017), I estimated the quantile treatment effect of the <a ref="https://crimesolutions.ojp.gov/ratedprograms/522" target="_blank">National Supported Work</a> program on the income conditional on the schooling years and age. I developed a novel nonparametric quantile regression bootstrap, and used it to show that the treatment effect on income varies with the quantile levels, which is unable to be discovered by usual regression methods. 
+
+My vision is to apply quantile regression to broader domains of social science. For example, to educational science to study the different features associated with low performing and high performing students.
+
+<img src='/images/research/fastec.png' style='width: 55%; height: auto'>
+<img src='/images/research/quantilecc.png' style='width: 40%; height: auto'>
+
+Research outputs and further reading
+-----
+<li>Chao, S.-K., Härdle, W. and Yuan, M. (2021). Factorisable Multitask Quantile Regression. <em>To appear in Econometric Theory</em>. [<a href="https://www.cambridge.org/core/journals/econometric-theory/article/factorisable-multitask-quantile-regression/2DD2D503F6D6D725F45309F0B4BA2CB4" target="_blank">pdf</a>] [<a href="http://arxiv.org/abs/1507.03833" target="_blank">Arxiv</a>] [<a href="/files/portfolio/20150908-cha-hae-yua-fastec-factorisable-sparse-tail-events_purduemss.pdf" target="_blank">talk</a>][<a href="https://www.connectedpapers.com/main/eccbed9c73a83fe1e4522a5e207d9b86270768d3/Factorisable-Multitask-Quantile-Regression/graph" target="_blank">context</a>]</li>
+<li>Chao, S.-K., Volgushev, S. and Cheng, G. (2017). Quantile Process for Semi and Nonparametric Regression Models. <em>Electronic Journal of Statistics</em>, 11(2): 3272-3331. [<a href="https://projecteuclid.org/download/pdfview_1/euclid.ejs/1506931550" target="_blank">pdf</a>] [<a href="/files/portfolio/20160628_qrp.pdf" target="_blank">talk</a>][<a href="https://www.connectedpapers.com/main/7f32b7c25bcaa1e7bc10ae76885baed3529dea29/Quantile-Processes-for-Semi-and-Nonparametric-Regression/graph" target="_blank">context</a>]</li>
+<li>Chao, S.-K., Proksch, K., Dette, H. and Härdle, W. (2017). Confidence corridors for nonparametric multivariate generalized quantile regression. <em>Journal of Business and Economic Statistics</em>, 35(1): 70-85. [<a href="http://www.tandfonline.com/doi/abs/10.1080/07350015.2015.1054493" target="_blank">pdf</a>] [<a href="/files/portfolio/20140218_SKC_WH_KAT_DET_ConfiD_no_open_pic.pdf" target="_blank">talk</a>] [<a href="http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2014-028.zip" target="_blank">R code</a>]</li>
+<li>Chao, S.-K., Härdle, W. Wang, W. (2015). Quantile Regression in Risk Calibration, in Lee, C.-F., and Lee, J. C. (eds), <em>Handbook of Financial econometrics and statistics</em>, Springer, New York. [<a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7750-1_54" target="_blank">pdf</a>] [<a href="/files/portfolio/Hae_Wan_Chao_QRinVaR_20120308.pdf" target="_blank">talk</a>]</li>
+
