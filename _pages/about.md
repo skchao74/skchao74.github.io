@@ -13,7 +13,7 @@ I am an assistant professor in the <a href="https://stat.missouri.edu" target="_
 <img src="images/pigeon2.png" alt="drawing" width="60"/> News 
 ------
 <img src="images/olivebranch.jpg" alt="drawing" width="35"/> 
-I will give a talk in the Department of Psychology at MU at 12 pm on September 10 on my work on quantile regression. Please stop by if you are interested!
+I will give a talk in the Department of Psychological Sciences at MU at 12 pm on September 10 on my work on quantile regression. Please stop by if you are interested!
 
 <img src="images/olivebranch.jpg" alt="drawing" width="35"/>
 I will organize a virtual session in <a href="https://symposium2021.icsa.org" target="_blank"> ICSA 2021</a> between 2--3:40 PM ET on September 14, 2021. 
