@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the <a href="https://stat.missouri.edu" target="_blank">Department of Statistics</a> at the <a href="https://missouri.edu" target="_blank">University of Missouri</a>. I develop provable statistical and machine learning methods that are used to solve quantitative scientific problems in social science and engineering. I specialize in solving computational challenges due to resource constraints and robust inference for regression problems.
+I am an assistant professor in the <a href="https://stat.missouri.edu" target="_blank">Department of Statistics</a> at the <a href="https://missouri.edu" target="_blank">University of Missouri</a>. I develop provable statistical and machine learning methods that are used to solve quantitative scientific problems in social science and engineering. I specialize in solving computational challenges due to resource constraints and robust inference for (robust) regression problems, with applications to deep learning, causal inference, medical imaging and more. 
 
 <img src="images/pigeon2.png" alt="drawing" width="60"/> News 
 ------
