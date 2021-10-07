@@ -16,7 +16,7 @@ My vision is to create methods that can be seamlessly integrated into the daily 
 
 Research outputs and further reading
 -
-<li>Yang, Y., Chao, S.-K. and Cheng, G. (2021). Distributed Bootstrap for Simultaneous Inference Under High Dimensionality, arXiv: 2102.10080. [<a href="https://arxiv.org/abs/2102.10080" target="_blank">pdf</a>]
+<li>Yang, Y., Chao, S.-K. and Cheng, G. (2021). Distributed Bootstrap for Simultaneous Inference Under High Dimensionality, arXiv: 2102.10080. [<a href="https://arxiv.org/abs/2102.10080" target="_blank">pdf</a>] [<a href="/files/portfolio/20211006_talk.pdf" target="_blank">talk</a>]
 <li>Yu, Y., Chao, S.-K. and Cheng, G. (2020). Simultaneous Inference for Massive Data: Distributed Bootstrap. <em>ICML 2020</em> (acceptance rate: 21.8%). [<a href="https://icml.cc/virtual/2020/poster/6606" target="_blank">ICML paper/slides/video</a>] [<a href="https://arxiv.org/pdf/2002.08443.pdf" target="_blank">Arxiv</a>]</li>
 <li>Volgushev, S., Chao, S.-K. and Cheng, G. (2019). Distributed inference for quantile regression processes. <em>Annals of Statistics</em>, 47(3): 1634-1662. [<a href="http://arxiv.org/abs/1701.06088" target="_blank">arXiv</a>] [<a href="https://projecteuclid.org/euclid.aos/1550026852" target="_blank">pdf</a>] [<a href="/files/portfolio/20190608 talk_ICSA.pdf" target="_blank">talk</a>] [<a href="/files/portfolio/SAMSI_WISO_BDQR.pdf" target="_blank">poster</a>][<a href="https://www.connectedpapers.com/main/59a68cb52566a1901268e1032df14c9328dce7c7/Distributed-inference-for-quantile-regression-processes/graph"  target="_blank">context</a>]</li>
 
