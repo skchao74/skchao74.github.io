@@ -12,7 +12,7 @@ Medical imaging is indispensable in modern medical practice and in various scien
 
 Research outputs and further reading
 ---
-<li><strong>Chao, S.-K.</strong>, Shammi, U. A., Blasco, L. F., Altes, T., Mugler, J. P., Meyer, C., Mata, J., Qing, K. Miller, W., Thomen, R. (2022). Automatic lung segmentation for hyperpolarized gas MRI using transferred generative adversarial network and three-view aggregation. <em>Joint Annual Meeting of International Society for Magnetic Resonance in Medicine (ISMRM) 2022}</em>.
+<li><strong>Chao, S.-K.</strong>, Shammi, U. A., Blasco, L. F., Altes, T., Mugler, J. P., Meyer, C., Mata, J., Qing, K. Miller, W., Thomen, R. (2022). Automatic lung segmentation for hyperpolarized gas MRI using transferred generative adversarial network and three-view aggregation. <em>Joint Annual Meeting of International Society for Magnetic Resonance in Medicine (ISMRM) 2022</em>.
 
 <li><strong>Chao, S.-K.</strong>, Härdle, W. and Huang, C. (2018). Multivariate Factorizable Expectile Regression with Application to fMRI Data. <em>Computational Statistics and Data Analysis</em>, 121: 1-19. [<a href="https://www.sciencedirect.com/science/article/pii/S0167947317302542" target="_blank">pdf</a>]</li>
 
