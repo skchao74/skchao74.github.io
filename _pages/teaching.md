@@ -12,8 +12,8 @@ author_profile: true
 ## University of Missouri
 - STAT 9720: Mathematical Statistics II (Spring 2020)
 - STAT 9310: Theory of Linear Models (Fall 2020)
-- STAT 4710/7710: Introduction to Mathematical Statistics (Spring 2021, in-person) [Syllabus](/files/teaching/Syl_2021sp_47107710.pdf)
-- STAT 4750/7750: Introduction to Probability Theory (Fall 2018, Spring and Fall 2019) [Syllabus](/files/teaching/Syl_2019fa_47507750.pdf)
+- STAT 4710/7710: Introduction to Mathematical Statistics (Spring 2021 and 2022, in-person) [Sample Syllabus](/files/teaching/Syl_2021sp_47107710.pdf)
+- STAT 4750/7750: Introduction to Probability Theory (Fall 2018, Spring and Fall 2019) [Sample Syllabus](/files/teaching/Syl_2019fa_47507750.pdf)
 	 
 ## Purdue University
 STAT 350: Introduction To Statistics (Fall 2015, Fall 2017, Spring 2018)
