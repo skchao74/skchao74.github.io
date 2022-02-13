@@ -17,7 +17,7 @@ I am an assistant professor in the <a href="https://stat.missouri.edu" target="_
 My abstract "Automatic lung segmentation for hyperpolarized gas MRI using transferred generative adversarial network and three-view aggregation" submitted to the <a href="https://www.ismrm.org/22m/" target="_blank">Joint Meeting of ISMRM 2022</a> has been accepted! The presentation will be in-person. I look forward to the meeting in London!
 
 <img src="images/olivebranch.jpg" alt="drawing" width="35"/> 
-I started work as a visiting professor in the applied data science team at Snap Inc. since August 2021.
+I started to work as a visiting professor in the applied data science team at Snap Inc. since August 2021.
 
 <!-- <img src="images/olivebranch.jpg" alt="drawing" width="35"/>
 I will give a talk in the Department of Psychological Sciences at MU at 12 pm on Nov. 19 on my work on quantile regression and extensions. The Zoom link will be available soon. -->
