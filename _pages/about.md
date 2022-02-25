@@ -14,7 +14,7 @@ I am an assistant professor in the <a href="https://stat.missouri.edu" target="_
 ------
 
 <img src="images/olivebranch.jpg" alt="drawing" width="35"/> 
-I am selected to join the <a href="https://cloud.google.com/edu/researchers/innovators#section-2" target="_blank">Google Cloud Research Innovator</a> in its 2022 cohort. I am excited to join the community!
+I am selected to join the <a href="https://cloud.google.com/edu/researchers/innovators#section-2" target="_blank">Google Cloud Research Innovator</a> in its 2022 cohort. I look forward to networking and collaborating in this interdisciplinary community!
 
 <img src="images/olivebranch.jpg" alt="drawing" width="35"/> 
 My abstract "Automatic lung segmentation for hyperpolarized gas MRI using transferred generative adversarial network and three-view aggregation" submitted to the <a href="https://www.ismrm.org/22m/" target="_blank">Joint Meeting of ISMRM 2022</a> has been accepted! The presentation will be in-person. I look forward to the meeting in London!
