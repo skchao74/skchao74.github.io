@@ -11,6 +11,8 @@ I am a machine learning scientist at the <a href="https://healthatscale.com" tar
 
 The major part of this website showcases the works I have done in my previous career as a researcher in statistics. Even though my research activity goes dormant, I remain active in writing blog posts.
 
+Disclaimer: all opinions presented in this website are my own and not the views of my employer.
+
 <!-- I developed provable statistical and machine learning methods that are used to solve quantitative scientific problems in social science and engineering. I specialize in solving computational challenges due to resource constraints and robust inference for (robust) regression problems, with applications to deep learning, causal inference, medical imaging and more. -->
 
 <img src="images/pigeon2.png" alt="drawing" width="60"/> News 
