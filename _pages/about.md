@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a machine learning scientist at the <a href="https://healthatscale.com" target="_blank">Health[at]Scale</a> in San Jose since June 2022. Previously, I was an assistant professor in the <a href="https://stat.missouri.edu" target="_blank">Department of Statistics</a> at the <a href="https://missouri.edu" target="_blank">University of Missouri</a>. 
+I am a Sr. Applied Scientist at Amazon. Previously, I was a machine learning scientist at a precision health startup <a href="https://healthatscale.com" target="_blank">Health[at]Scale</a> in San Jose. Before that, I was an assistant professor in the <a href="https://stat.missouri.edu" target="_blank">Department of Statistics</a> at the <a href="https://missouri.edu" target="_blank">University of Missouri</a>. 
 
 The major part of this website showcases the works I have done in my previous career as a researcher in statistics. Even though my research activity goes dormant, I remain active in writing blog posts.
 
